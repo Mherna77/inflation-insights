@@ -1,0 +1,27 @@
+Data Pre-processing Report
+============================================================
+
+Input: data\world_bank_data_2025.csv
+Output: preprocessed_data\world_bank_data_cleaned.csv
+
+Shape: (3185, 16)
+Countries: 215
+Years: 2010 - 2024
+
+Missing values:
+country_name                          0
+country_id                            0
+year                                  0
+Inflation (CPI %)                   491
+GDP (Current USD)                   252
+GDP per Capita (Current USD)        247
+Unemployment Rate (%)               390
+Interest Rate (Real, %)            1450
+Inflation (GDP Deflator, %)         281
+GDP Growth (% Annual)               273
+Current Account Balance (% GDP)     622
+Government Expense (% of GDP)      1365
+Government Revenue (% of GDP)      1356
+Tax Revenue (% of GDP)             1352
+Gross National Income (USD)         389
+Public Debt (% of GDP)             2333
